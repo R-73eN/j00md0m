@@ -6,3 +6,7 @@
 /com_creativecontactform/:Shell Upload:/components/com_creativecontactform/:
 /com_macgallery/:Arbritary File Download:/index.php?option=com_macgallery&view=download&albumid=download.php:
 /com_spidercontacts/:SQL injection:/index.php?option=com_spidercontacts&contact_id=%27&view=showcontact&lang=en:
+/com_weblinks/:SQL injection:/index.php/weblinks-categories?id=':
+/com_community/:Remote Code Execution:/index.php?option=com_community&view=frontpage:
+/com_virtuemart/:SQL injection.:/index.php?option=com_virtuemart&view=user:
+/com_redshop/:SQL injection:/index.php?tmpl=component&option=com_redshop&view=product&task=addtocompare&pid=24':
